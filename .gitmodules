@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "clustringr"]
+	path = clustringr
+	url = https://github.com/dan-reznik/clustringr
+	shallow = true
+	registered = true
